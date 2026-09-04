@@ -1,6 +1,6 @@
 # Hi, I'm Vinuri 👋
 
-### Data Analyst | Business Intelligence | Data Analytics
+### Data Analyst | Business Intelligence
 
 I'm a Data Analyst with experience in HR Analytics, Business Intelligence, dashboard development, KPI reporting, and data-driven decision making.
 
