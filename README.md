@@ -3,6 +3,7 @@ Hi, I'm Vinuri Nimaya 👋
 </H1>
 <H3 align="center">
 Data Analyst | Business Intelligence | Data Science
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/vinuri-nimaya-2919a819/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -13,6 +14,7 @@ Data Analyst | Business Intelligence | Data Science
 </p>
 </H3>
 
+---
 
 I'm a data analytics professional with experience in **HR Analytics, Business Intelligence, 
 KPI reporting, dashboard development, and product analysis**.
