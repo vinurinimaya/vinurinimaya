@@ -2,6 +2,12 @@
 
 ### Data Analyst | Business Intelligence | Data Science
 
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+</p>
+
 I'm a data analytics professional with experience in **HR Analytics, Business Intelligence, 
 KPI reporting, dashboard development, and product analysis**.
 
@@ -140,10 +146,3 @@ Analytics projects exploring the use of AI tools to improve data analysis and pr
 
 **Data Analyst | BI Analyst | Business Intelligence Developer | Product Analyst | Junior Data Scientist**
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
