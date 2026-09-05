@@ -1,7 +1,9 @@
-# Hi, I'm Vinuri Nimaya 👋
-
-### Data Analyst | Business Intelligence | Data Science
-
+<H1 align="center">
+Hi, I'm Vinuri Nimaya 👋
+</H1>
+<H2 align="center">
+Data Analyst | Business Intelligence | Data Science
+</H2>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinuri-nimaya-2919a819/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
